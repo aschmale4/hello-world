@@ -3,6 +3,7 @@
  * Date: 2016/11/02
  *
  * A simple hello world program in C
+ our first program
 @ -10,7 +10,8 @@
 **/
 int main(int argc, char **argv) {
